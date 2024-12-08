@@ -21,7 +21,7 @@ repository               : "academicpages/mumu286.github.io"#仓库名称
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"#头像
+  avatar           : "https://s21.ax1x.com/2024/12/08/pA7cUl8.jpg"#头像
   name             : "mumu286"#昵称
   pronouns         : "he"
   bio              : "我是个沙比"
