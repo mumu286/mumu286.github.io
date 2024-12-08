@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "我の小破站"
 title_separator          : "-"
 name                     : &name "mumu286"
-description              : &description "我是个沙比"
+description              : &description "关于我"
 url                      : https://mumu286.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/mumu286.github.io"#仓库名称
