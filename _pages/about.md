@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "欢迎"
+title: "原批看过来"
 author_profile: true
 redirect_from: 
   - /about/
