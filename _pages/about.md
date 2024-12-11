@@ -15,4 +15,4 @@ redirect_from:
 
 [点击查看二次元图片](https://s21.ax1x.com/2024/12/09/pAHmu8S.png)
 
-[点击查看二次元图片](https://s21.ax1x.com/2024/12/09/pAHnSZn.webp)
+[点击查看二次元图片](https://s21.ax1x.com/2024/12/09/pAHniGT.webp)
